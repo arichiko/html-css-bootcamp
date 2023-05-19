@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th,td{
+    height: 50px;
+    text-align: center;
+}
+
+td{
+    font-weight: bold;
+}
+
+thead{
+    color: white;
+    background-color: rgb(247, 127, 147);
+    }
+
+.line1,.line3,.line5{
+    background-color: rgb(254, 225, 187);
+}
+
+.email{
+    color: blue;
+}
+
+img{
+    width: 50px;
+    height: 50px;    
+}

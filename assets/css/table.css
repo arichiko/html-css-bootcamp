@@ -1,0 +1,6 @@
+table,th,td{
+    border: 1px solid black;
+    empty-cells: hide;
+    border-collapse: separate;
+    border-spacing: 15px 20px;
+}

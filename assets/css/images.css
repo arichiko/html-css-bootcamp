@@ -1,0 +1,7 @@
+body{
+    background-image: url("../images/beach.jpg");
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: scroll;
+}
